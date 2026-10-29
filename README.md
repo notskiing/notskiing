@@ -1,1 +1,1 @@
-- 👋
+- Engineering student at Berkeley.
